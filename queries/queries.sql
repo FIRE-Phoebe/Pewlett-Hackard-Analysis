@@ -58,3 +58,33 @@ SELECT * FROM dept_manager;
 SELECT * FROM Salaries;
 SELECT * FROM employees;
 SELECT * FROM titles;
+
+--DATA analysis.
+SELECT first_name, last_name From employees
+WHERE birth_date BETWEEN '1952-01-01' AND '1955-12-31';
+--Rewrite code to find people who's ready for retired.
+SELECT first_name, last_name From employees
+WHERE birth_date BETWEEN '1952-01-01' AND '1952-12-31';
+--search employees who born in 1953,1954,1955.
+SELECT first_name, last_name From employees
+WHERE birth_date BETWEEN '1953-01-01' AND '1955-12-31';
+--Narrow down the retired employees.
+- Retirement eligibility
+SELECT first_name, last_name
+FROM employees
+WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
+
+-- Number of employees retiring
+SELECT COUNT(first_name)
+FROM employees
+WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
+--Extract data to output 
+SELECT first_name, last_name
+INTO retirement_info
+FROM employees
+WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
+--chceck the retirement data.
+SELECT * FROM retirement_info;
