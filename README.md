@@ -1,9 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview of the analysis
-Explain the purpose of this analysis.
-
-
+Pewlett-Hackard Analysis project uses SQL techniques to design and manage employee database. The Entity Relationship Diagram helps us to create multiple tables, perform data modeling, and complete employment analysis for Pewlett-Hackard Company. Our purpose is to determine the number of retiring employees per title, and identify employees to eligible for Mentorship Program.
 
 ## Results
 Provide a bulleted list with four major points from the two analysis deliverables. 
