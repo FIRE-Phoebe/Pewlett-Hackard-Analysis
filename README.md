@@ -13,7 +13,7 @@ We create unique_titles table for employees who has the most recent title. It sh
     
   **Retiring employees by titles**:
 
-<img src="Resources/unique title per retirement_age employee.PNG" width="450" height="400">
+<img src="Resources/unique title per retirement_age employee.PNG" width="300" height="250">
 
 
   - Mentorship Eligibility Results:
@@ -26,10 +26,15 @@ We create unique_titles table for employees who has the most recent title. It sh
 ## Summary 
 As we analyze the employee data, there are 7 roles will need to be filled as the "silver tsunami" begins to make an impact.In addition, Pewlett-Hackard Company has not enough empoyees to qualified, who retirement-ready employees in the departments to mentor the next generation. Especially in the Managerment role, employees who have the manager titles not even show on the mentorship list. 
   
-  **Insight for mentorship by title:**
+  **Insight for mentorship count by titles:**
  
-<img src="Resources/Mentorship_eligib_count.PNG" width="450" height="400">
-
+<img src="Resources/Mentorship_eligib_count.PNG" width="300" height="250">
+  
+  **Compare Retiring and Mentorship count by titles:**
+ 
+ <img src="Resources/compare_retiring_mentorship.PNG" width="600" height="300">
+ 
 **Resources for additional insights:**
 1. https://github.com/FIRE-Phoebe/Pewlett-Hackard-Analysis/blob/fa1b4474a2396244b21b2f187db4e9c5c283a9cc/queries/mentorship_by_titles.sql
 2. https://github.com/FIRE-Phoebe/Pewlett-Hackard-Analysis/blob/fa1b4474a2396244b21b2f187db4e9c5c283a9cc/queries/Compare_retiring_mentorship.sql
+3.https://github.com/FIRE-Phoebe/Pewlett-Hackard-Analysis/blob/f8efaf9d75660cc5216ede911b997d4e56882e74/Resources/compare_retiring_mentorship.PNG
