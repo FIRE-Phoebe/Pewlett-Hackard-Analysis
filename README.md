@@ -31,5 +31,5 @@ As we analyze the employee data, there are 7 roles will need to be filled as the
 <img src="Resources/Mentorship_eligib_count.PNG" width="450" height="400">
 
 **Resources for additional insights:**
-1. https://github.com/FIRE-Phoebe/Pewlett-Hackard-Analysis/blob/bec6e04d549d9b8a60437b13510591edbc8a8caa/data/mentorship_eligibilty.csv
-2. sql.
+1. https://github.com/FIRE-Phoebe/Pewlett-Hackard-Analysis/blob/fa1b4474a2396244b21b2f187db4e9c5c283a9cc/queries/mentorship_by_titles.sql
+2. https://github.com/FIRE-Phoebe/Pewlett-Hackard-Analysis/blob/fa1b4474a2396244b21b2f187db4e9c5c283a9cc/queries/Compare_retiring_mentorship.sql
