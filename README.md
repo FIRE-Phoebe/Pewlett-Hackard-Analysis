@@ -1,7 +1,7 @@
-# Pewlett-Hackard-Analysis
+# Pewlett-Hackard Analysis
 
 ## Overview of the analysis
-Pewlett-Hackard Analysis project uses SQL techniques to design and manage employee database. The Entity Relationship Diagram helps us to create multiple tables, perform data modeling, and complete employment analysis for Pewlett-Hackard Company. Our purpose is to determine the number of retiring employees per title, and identify employees to eligible for Mentorship Program.
+Pewlett-Hackard Analysis project uses SQL techniques to design and manage employees' database. The Entity Relationship Diagram helps us to create multiple tables, perform data modeling, and complete employment analysis for Pewlett-Hackard Company. Our purpose is to determine the number of retiring employees per title, and identify employees who will eligible for Mentorship Program.
 
 ## Results
 We create unique_titles table for employees who has the most recent title. It shows Pewlett_Hackard Company has *72,458* employees are born on *1952* to *1955*, which means these amount of employees reach retirement-age by most recent job title. After we filter by all active employees in this company, we also found there are 1,549 employees are eligible for the Mentorship Program.
@@ -24,7 +24,7 @@ We create unique_titles table for employees who has the most recent title. It sh
 
 
 ## Summary 
-As we analyze the employee data, there are 7 roles will need to be filled as the "silver tsunami" begins to make an impact.In addition, Pewlett-Hackard Company has not enough empoyees to qualified, who retirement-ready employees in the departments to mentor the next generation. Especially in the Managerment role, employees who have the manager titles not even show on the mentorship list. 
+As we analyze the employees' data, there are 7 roles will need to be filled as the "silver tsunami" that begins to make an impact. In addition, Pewlett-Hackard Company has not enough empoyees to qualified , who retirement-ready employees in the departments to mentor the next generation. Especially in the Managerment's role, employees who have the manager titles are not even showed on the mentorship list. 
   
   **Insight for mentorship count by titles:**
  
