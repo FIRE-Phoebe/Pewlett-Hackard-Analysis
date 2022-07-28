@@ -13,7 +13,7 @@ We create unique_titles table for employees who has the most recent title. It sh
     
   **Retiring employees by titles**:
 
-<img src="Resources/unique title per retirement_age employee.PNG" width="300" height="250">
+ <img src="Resources/unique title per retirement_age employee.PNG" width="300" height="250">
 
 
   - Mentorship Eligibility Results:
