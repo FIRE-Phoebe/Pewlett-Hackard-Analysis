@@ -38,3 +38,7 @@ As we analyze the employee data, there are 7 roles will need to be filled as the
 1. https://github.com/FIRE-Phoebe/Pewlett-Hackard-Analysis/blob/fa1b4474a2396244b21b2f187db4e9c5c283a9cc/queries/mentorship_by_titles.sql
 2. https://github.com/FIRE-Phoebe/Pewlett-Hackard-Analysis/blob/fa1b4474a2396244b21b2f187db4e9c5c283a9cc/queries/Compare_retiring_mentorship.sql
 3.https://github.com/FIRE-Phoebe/Pewlett-Hackard-Analysis/blob/f8efaf9d75660cc5216ede911b997d4e56882e74/Resources/compare_retiring_mentorship.PNG
+
+__________________________________________________________________________________________________________________________________________________
+- Project contributor: Phoebe J. Miao
+- Email: phoebem2021data@gmail.com
